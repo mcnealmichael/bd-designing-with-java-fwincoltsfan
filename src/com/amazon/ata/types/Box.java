@@ -3,7 +3,7 @@ package com.amazon.ata.types;
 import java.math.BigDecimal;
 import java.util.Objects;
 
-public class Box extends Packaging{
+public class Box extends Packaging {
     /**
      * This packaging's length.
      */
